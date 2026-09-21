@@ -6,7 +6,7 @@ Software development
 
 * 🌍  I'm based in Colombia
 * ✉️  You can contact me at [juanstudy@gmail.com](mailto:juanstudy@gmail.com)
-* 🚀  I'm currently working on [Type-key](http://https://github.com/Juanstudy/type-key)
+* 🚀  I'm currently working on [Fonamp](https://github.com/Juanstudy/fonamp)
 * 🧠  I'm currently learning Typescript and Go
 * 💬  Ask me about I love Gentleman, but don't tell him.
 
