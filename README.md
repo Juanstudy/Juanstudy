@@ -65,7 +65,12 @@ I lead AI, it doesn't lead me — I ship by directing OpenCode, Pi agent, and Ge
   <img src="./assets/readme/section-stats.svg" width="100%" alt="Stats — activity in the open" />
 </p>
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Juanstudy&show_icons=true&hide_border=true&theme=tokyonight" alt="Juan Fierro's GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanstudy&layout=compact&hide_border=true&theme=tokyonight" alt="Juan Fierro's top languages" />
-</p>
+<details>
+  <summary>📈 GitHub Stats</summary>
+  <br>
+  <p align="center">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Juanstudy&show_icons=true&hide_border=true&theme=tokyonight" alt="Juan Fierro's GitHub stats" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanstudy&layout=compact&hide_border=true&theme=tokyonight" alt="Juan Fierro's top languages" />
+  </p>
+  <!-- Upstream paused 2026-09-24 (503 DEPLOYMENT_PAUSED on both cards). Self-host github-readme-stats to restore reliably. -->
+</details>
