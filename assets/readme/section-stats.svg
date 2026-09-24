@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="110" viewBox="0 0 1200 110"
+     role="img" aria-labelledby="sTitle sDesc">
+  <title id="sTitle">Stats</title>
+  <desc id="sDesc">Stats: activity in the open.</desc>
+
+  <rect width="1200" height="110" rx="18" fill="#0C0F14"/>
+  <rect x="1.5" y="1.5" width="1197" height="107" rx="17" fill="none" stroke="#232D3D" stroke-width="2"/>
+
+  <g id="eq-left">
+    <rect x="52" y="68" width="12" height="20" rx="4" fill="#263042"/>
+    <rect x="70" y="56" width="12" height="32" rx="4" fill="#4ADE80"/>
+    <rect x="88" y="62" width="12" height="26" rx="4" fill="#263042"/>
+  </g>
+
+  <text x="122" y="60" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="36" font-weight="700" fill="#F2F4F8">Stats</text>
+  <text x="124" y="90" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20" fill="#8B93A3">activity in the open</text>
+
+  <g id="eq-right">
+    <rect x="1010" y="66" width="16" height="24" rx="5" fill="#263042"/>
+    <rect x="1034" y="46" width="16" height="44" rx="5" fill="#4ADE80"/>
+    <rect x="1058" y="58" width="16" height="32" rx="5" fill="#263042"/>
+    <rect x="1082" y="34" width="16" height="56" rx="5" fill="#F59E0B"/>
+    <rect x="1106" y="52" width="16" height="38" rx="5" fill="#263042"/>
+  </g>
+</svg>
