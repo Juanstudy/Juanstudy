@@ -1,19 +1,35 @@
 <div align="center">
-  <img src="./assets/readme/banner.jpg" alt="Creation of Adam banner" width="100%" height="250" />
+  <img src="./assets/readme/pokemon-banner.png" alt="Snorlax and Eevee retro night banner" width="100%" height="250" />
 </div>
 
 <hr>
 <h1 align="center">
-  Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Waving hand"> I'm Juan Fierro
+  Hey there <img src="./assets/readme/eevee.gif" width="36px" alt="Eevee"> I'm Juan Fierro
 </h1>
 <hr>
+
+<p align="center">
+  <img src="./assets/readme/snorlax.gif" width="60" alt="Snorlax" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/readme/eevee.gif" width="45" alt="Eevee" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/readme/piplup.gif" width="40" alt="Piplup" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/readme/popplio.gif" width="48" alt="Popplio" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/readme/cleffa.gif" width="38" alt="Cleffa" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/readme/caterpie.gif" width="38" alt="Caterpie" />
+</p>
 
 ### 🔗 Know About Me
 
 <table>
   <tr>
-    <td width="30%">
-      <img src="./assets/readme/brain.jpg" alt="Brain illustration" width="100%" />
+    <td width="30%" align="center">
+      <img src="./assets/readme/snorlax.gif" alt="Snorlax resting" width="110" />
+      <br><br>
+      <sub><b>Rest & Build</b></sub>
     </td>
     <td width="100%">
       <b>Hey there! I'm Juan</b><br><br>
@@ -44,8 +60,10 @@
         <li><b>MODULAR WORKFLOW TOOLS</b> &nbsp; Pragmatic developer tooling and plugins designed to do one thing well and stay out of your way.</li>
       </ul>
     </td>
-    <td width="20%">
-      <img src="./assets/readme/laptop.jpg" alt="Pixel laptop illustration" width="100%" />
+    <td width="20%" align="center">
+      <img src="./assets/readme/piplup.gif" alt="Piplup crafting" width="75" />
+      <br><br>
+      <sub><b>Crafting Tools</b></sub>
     </td>
   </tr>
 </table>
