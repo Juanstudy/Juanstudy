@@ -1,76 +1,71 @@
-<p align="center">
-  <img src="./assets/readme/hero.png" width="100%" alt="Juan Fierro, AI orchestrator: I lead AI, it doesn't lead me. Shipped proof Fonamp, a 7.3 MB tracker-free Android player." />
-</p>
+<div align="center">
+  <img src="./assets/readme/banner.jpg" alt="Creation of Adam banner" width="100%" height="250" />
+</div>
 
-### Hi, I'm Juan Fierro
+<hr>
+<h1 align="center">
+  Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Waving hand"> I'm Juan Fierro
+</h1>
+<hr>
 
-I'm a builder based in Colombia, focused on Python, data, and LLM training with NumPy and Pandas, plus Go and CSS.
+### 🔗 Know About Me
 
-I lead AI, it doesn't lead me — I ship by directing OpenCode, Pi agent, and GentleAI. My shipped proof is Fonamp, a 7.3 MB tracker-free Android player built outside my core stack.
+<table>
+  <tr>
+    <td width="30%">
+      <img src="./assets/readme/brain.jpg" alt="Brain illustration" width="100%" />
+    </td>
+    <td width="100%">
+      <b>Hey there! I'm Juan</b><br><br>
+      I'm a software builder crafting modular system utilities, desktop shell plugins, and lightweight applications.<br><br>
+      By day, I build high-leverage tools in <b>Go, JavaScript, and QML</b>, obsessing over clean architecture, low resource footprints, and Unix-philosophy design.<br><br>
+      When I'm not writing code, you can find me exploring desktop shell environments, tweaking Linux setups, or experimenting with minimal workflows.
+      <br><br>
+      <b>⚙️ Tech Stack:</b><br>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/QML%20%2F%20Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="QML / Qt" />
+      <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+    </td>
+  </tr>
+</table>
 
-- 🚀 Currently shipping: [Fonamp](https://github.com/Juanstudy/fonamp), a lightweight native Android music player
-- 🌱 Currently learning: LLM training workflows (Python, NumPy, Pandas), plus Go and CSS
-- 📥 Reach me: [juanstudy@gmail.com](mailto:juanstudy@gmail.com)
+### 🔗 What I Build (built to eliminate bloat)
 
-<p align="center">
-  <img src="./assets/readme/section-shipped.svg" width="100%" alt="Shipped: Fonamp — proof, not promises" />
-</p>
+<table>
+  <tr>
+    <td width="80%">
+      <ul>
+        <li><b>SHELL & DESKTOP EXTENSIONS</b> &nbsp; Modular components, status monitors, and lightweight desktop widgets crafted with QML and JavaScript.</li>
+        <br>
+        <li><b>SYSTEM UTILITIES & DAEMONS</b> &nbsp; Fast, single-binary background tools and CLIs written in Go, strictly adhering to the Unix philosophy.</li>
+        <br>
+        <li><b>MODULAR WORKFLOW TOOLS</b> &nbsp; Pragmatic developer tooling and plugins designed to do one thing well and stay out of your way.</li>
+      </ul>
+    </td>
+    <td width="20%">
+      <img src="./assets/readme/laptop.jpg" alt="Pixel laptop illustration" width="100%" />
+    </td>
+  </tr>
+</table>
 
-[Fonamp](https://github.com/Juanstudy/fonamp) — lightweight native Android player. See [releases](https://github.com/Juanstudy/fonamp/releases).
+### 🔗 Connect
 
-<p align="center">
-  <img src="./assets/readme/fonamp-proof.jpeg" width="320" alt="Fonamp app screens: internet radio browser, on-device song library, and the now-playing screen" />
-</p>
+<div align="center">
+  <a href="https://github.com/Juanstudy"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:juanstudy@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</div>
 
-- On-device music library plus internet radio (RadioBrowser) in a single 7.3 MB app.
-- Built with Media3, Hilt, and Room; v0.0.13, minSdk 29, target 35.
-- Private by design: no ads, no analytics, no Firebase, no trackers.
+<br>
 
-<p align="center">
-  <img src="./assets/readme/architecture.svg" width="100%" alt="Fonamp module map: the app shell hosts library, radio, and settings features over provider and core modules" />
-</p>
+> Simplicity is prerequisite for reliability.<br><br>
+> Writing code that works is easy. Writing modular, lightweight tools that do one thing cleanly and respect the machine is the real craft.
 
-<p align="center">
-  <img src="./assets/readme/section-stack.svg" width="100%" alt="Stack — tools I reach for daily" />
-</p>
+<br>
 
-**Languages**
+### 🔗 Contribution
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-
-**Data / AI**
-
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-Hugging_Face-000000?style=flat-square&logo=huggingface&logoColor=white)
-
-**Web**
-
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Workflow**
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
-
-<p align="center">
-  <img src="./assets/readme/section-connect.svg" width="100%" alt="Connect — one message away" />
-</p>
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://www.github.com/Juanstudy)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:juanstudy@gmail.com)
-
-<p align="center">
-  <img src="./assets/readme/section-stats.svg" width="100%" alt="Stats — activity in the open" />
-</p>
-
-<details>
-  <summary>📈 GitHub Stats</summary>
-  <br>
-  <p align="center">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Juanstudy&show_icons=true&hide_border=true&theme=tokyonight" alt="Juan Fierro's GitHub stats" />
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanstudy&layout=compact&hide_border=true&theme=tokyonight" alt="Juan Fierro's top languages" />
-  </p>
-  <!-- Upstream paused 2026-09-24 (503 DEPLOYMENT_PAUSED on both cards). Self-host github-readme-stats to restore reliably. -->
-</details>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Juanstudy&theme=tokyo-night" alt="Juan Fierro's Contribution Graph" width="100%" />
+</div>
